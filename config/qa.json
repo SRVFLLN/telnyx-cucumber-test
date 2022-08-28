@@ -1,0 +1,8 @@
+{
+    "specPattern" : "cypress/e2e/features/**/*.feature",
+    "baseUrl": "https://telnyx.com/",
+    "viewportHeight": 1280,
+    "viewportWidth": 1920,
+    "defaultCommandTimeout": 10000,
+    "video": false
+}
