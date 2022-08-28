@@ -1,6 +1,6 @@
 {
     "json": {
-        "enabled": true
+        "enabled": false
   },
     "stepDefinitions": [
         "[filepath]/**/*.{js,ts}",
